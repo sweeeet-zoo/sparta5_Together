@@ -1,0 +1,2 @@
+Requirement already satisfied: JPype1 in c:\users\hamju\.vscode\sparta_vscode\python_virtualenv\lib\site-packages (1.5.2)
+Requirement already satisfied: packaging in c:\users\hamju\.vscode\sparta_vscode\python_virtualenv\lib\site-packages (from JPype1) (24.2)
